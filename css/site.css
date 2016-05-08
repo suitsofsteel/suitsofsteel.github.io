@@ -80,3 +80,15 @@ h6 {
 .img-responsive.img-center {
       margin: 0 auto;
 }
+
+.center-banner {
+    text.align:center;
+}
+
+.bar{
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
